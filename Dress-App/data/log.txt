@@ -104,4 +104,10 @@
  Socks button clicked2018-9-28 10:51:26
  Socks button clicked2018-9-28 10:51:28
  Shirt button clicked2018-9-28 10:51:29
- Pants button clicked
+ Pants button clicked2018-10-5 10:52:50
+ Shirt button clicked2018-10-5 10:52:51
+  Open the drawer with the green light2018-10-5 10:53:19
+ Pants button clicked2018-10-5 10:53:21
+  Open the drawer with the green light2018-10-5 11:30:38
+ Shirt button clicked2018-10-5 11:30:38
+  Open the drawer with the green light
