@@ -1,0 +1,128 @@
+{  
+   "Shirt":[  
+      {  
+         "order":"Line up buttons",
+         "file":"Line_up_buttons.mp3"
+      },
+      {  
+         "order":"Open the shirt",
+         "file":"Open_the_shirt.mp3"
+      },
+      {  
+         "order":"Put arm through hole",
+         "file":"Put_arm_through_hole.mp3"
+      },
+      {  
+         "order":"Put arm through hole on other side",
+         "file":"Put_arm_through_hole_on_other_side.mp3"
+      },
+      {  
+         "order":"Push button through holes",
+         "file":"Push_button_through_holes.mp3"
+      },
+      {  
+         "order":"Take out the shirt",
+         "file":"Take_out_the_shirt.mp3"
+      },
+      {  
+         "order":"Turn shirt around",
+         "file":"Turn_shirt_around.mp3"
+      },
+      {  
+         "order":"Bring the side of shirt in front",
+         "file":"Bring_the_side_of_shirt_in_front.mp3"
+      }
+   ],
+   "Other":[  
+      {  
+         "order":"Put on the underwear",
+         "file":"Put_on_the_underwear.mp3"
+      },
+      {  
+         "order":"Take off your pajamas",
+         "file":"Take_off_your_pajamas.mp3"
+      },
+      {  
+         "order":"Open the draw with the green light",
+         "file":"Open_the_draw_with_the_green_light.mp3"
+      },
+      {  
+         "order":"Take out the underwear",
+         "file":"Take_out_the_underwear.mp3"
+      },
+      {  
+         "order":"Take out the glasses",
+         "file":"Take_out_the_glasses.mp3"
+      },
+      {  
+         "order":" DS Store",
+         "file":"_DS_Store"
+      },
+      {  
+         "order":"Put on the glasses",
+         "file":"Put_on_the_glasses.mp3"
+      }
+   ],
+   "Shoes":[  
+      {  
+         "order":"Take out the shoes",
+         "file":"Take_out_the_shoes.mp3"
+      },
+      {  
+         "order":"Put on the shoes",
+         "file":"Put_on_the_shoes.mp3"
+      }
+   ],
+   "Socks":[  
+      {  
+         "order":"Put on the socks",
+         "file":"Put_on_the_socks.mp3"
+      },
+      {  
+         "order":"Take out the socks",
+         "file":"Take_out_the_socks.mp3"
+      }
+   ],
+   "Pants":[  
+      {  
+         "order":"Take out the pants",
+         "file":"Take_out_the_pants.mp3"
+      },
+      {  
+         "order":"Hold the pants in front of your legs",
+         "file":"Hold_the_pants_in_front_of_your_legs.mp3"
+      },
+      {  
+         "order":"Button the pants",
+         "file":"Button_the_pants.mp3"
+      },
+      {  
+         "order":"Put your other leg in the pants",
+         "file":"Put_your_other_leg_in_the_pants.mp3"
+      },
+      {  
+         "order":"Zip up the pants",
+         "file":"Zip_up_the_pants.mp3"
+      },
+      {  
+         "order":"Hold pants up so see your feet",
+         "file":"Hold_pants_up_so_see_your_feet.mp3"
+      },
+      {  
+         "order":"Sit on the chair",
+         "file":"Sit_on_the_chair.mp3"
+      },
+      {  
+         "order":"Stand up",
+         "file":"Stand_up.mp3"
+      },
+      {  
+         "order":"Take the pants around",
+         "file":"Take_the_pants_around.mp3"
+      },
+      {  
+         "order":"Put one leg in the pants",
+         "file":"Put_one_leg_in_the_pants.mp3"
+      }
+   ]
+}

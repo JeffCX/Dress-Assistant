@@ -1,0 +1,12 @@
+{
+  "name": "webrtc-codelab",
+  "version": "0.0.1",
+  "description": "WebRTC codelab",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-static": "^0.7.10",
+    "play-sound": "^1.1.2",
+    "socket.io": "^2.0.4"
+  }
+}
