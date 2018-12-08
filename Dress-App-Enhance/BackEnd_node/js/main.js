@@ -17,7 +17,7 @@ var pcConfig = {
 // Set up audio and video regardless of what devices are present.
 var sdpConstraints = {
   offerToReceiveAudio: true,
-  offerToReceiveVideo: true
+  offerToReceiveVideo: false
 };
 
 /////////////////////////////////////////////
@@ -113,7 +113,8 @@ function gotStream(stream) {
 }
 
 var constraints = {
-  video: true
+  video: false,
+  audio:true
 };
 
 console.log('Getting user media with constraints', constraints);

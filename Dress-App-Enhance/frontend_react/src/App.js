@@ -16,7 +16,7 @@ import data from "./data.json"
 
 
 const StaticIp  = ""
-const PostUrl = "http://192.168.1.151:8000/play_sound"
+const PostUrl = "http://10.19.102.166:8000/play_sound"
 
 const keys = Object.keys(data)
 class App extends Component {
@@ -69,7 +69,7 @@ class App extends Component {
     } else {
       this.startRecording()
     }
-    window.open("http://192.168.1.151:8080/","blank")
+    window.open("http://10.19.102.166:8000/","blank")
   }
 
   spaceFunction = (event) => {
